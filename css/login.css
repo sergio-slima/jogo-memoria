@@ -28,6 +28,7 @@
 .login__header h5 {
   color: #333;
   font-size: 1em;
+  margin-top: 2px;
 }
 
 .login__input {
